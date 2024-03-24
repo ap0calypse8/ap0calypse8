@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ap0calypse8</h1>
 <h3 align="center">Fueling my passion for programming, one line of code at a time 🔥and embracing polymathy.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/08ba07157063289.637277035da86.gif">
-- 🔭 I’m currently working on **OpenGL Implementation in Conway's game of life.
+ 🔭 I’m currently working on OpenGL Implementation in Conway's game of life.
 
 - 🌱 I’m currently learning **C++,OpenGL,SDL2**
 
