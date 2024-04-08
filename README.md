@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm ap0calypse8</h1>
 <h3 align="center">Fueling my passion for programming, one line of code at a time 🔥and embracing polymathy.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/08ba07157063289.637277035da86.gif">
- //🔭 I’m currently working on OpenGL Implementation in Conway's game of life.
+🔭 I’m currently working on a JIT compiler in C++
 
-- 🌱 I’m currently learning **C++,OpenGL,SDL2**
+- 🌱 I’m currently learning C++,SDL2
 
 - 📝 I regularly post on [https://twitter.com/_ap0_calypse](https://twitter.com/_ap0_calypse)
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ap0calypse8&show_icons=true&locale=en" alt="ap0calypse8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ap0calypse8&" alt="ap0calypse8" /></p>
-[![An image of @ap0calypse8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ap0calypse8)](https://holopin.io/@ap0calypse8)
