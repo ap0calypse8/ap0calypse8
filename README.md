@@ -1,10 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://ap0calypse8.io)
 <h1 align="center">Hi 👋, I'm ap0calypse8</h1>
-<h3 align="center">Fueling my passion for programming, one line of code at a time 🔥and embracing polymathy.</h3>
+<h3 align="center">Fueling my passion for programming, one line of code at a time.</h3>
+<h3 align="center"> Embracing polymathy</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/08ba07157063289.637277035da86.gif">
-🔭 I’m currently working on a JIT compiler in C++
+🔭 I’m currently working on personal projects
 
-- 🌱 I’m currently learning C++,SDL2
+- 🌱 I’m currently learning Reactjs
 
 - 📝 I regularly post on [https://twitter.com/_ap0_calypse](https://twitter.com/_ap0_calypse)
 
@@ -28,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ap0calypse8&show_icons=true&locale=en" alt="ap0calypse8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ap0calypse8&" alt="ap0calypse8" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=ap0calypse8&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
